@@ -1,0 +1,11 @@
+{
+  "name": "MicroPets",
+  "website": "https://micropets.io",
+  "description": "MicroPets is a Web3 ecosystem combining NFTs, gaming, and staking utilities. This contract replaces the previous MicroPets token as part of the official migration.",
+  "explorer": "https://bscscan.com/token/0x610FD1A9601CF7b1d188dBF3264738Aecc9fC96C",
+  "type": "BEP20",
+  "symbol": "PETS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x610FD1A9601CF7b1d188dBF3264738Aecc9fC96C"
+}
