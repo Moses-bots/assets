@@ -1,11 +1,34 @@
 {
   "name": "MicroPets",
   "website": "https://micropets.io",
-  "description": "MicroPets is a Web3 ecosystem combining NFTs, gaming, and staking utilities. This contract replaces the previous MicroPets token as part of the official migration.",
+  "description": "MicroPets is a Web3 ecosystem combining NFTs, gaming, and staking utilities. This contract replaces the previous MicroPets token as part of the official migration from the earlier upgradeable proxy-based token structure to a renounced token with 0% buy tax and 0% sell tax.",
   "explorer": "https://bscscan.com/token/0x610FD1A9601CF7b1d188dBF3264738Aecc9fC96C",
   "type": "BEP20",
   "symbol": "PETS",
   "decimals": 18,
   "status": "active",
-  "id": "0x610FD1A9601CF7b1d188dBF3264738Aecc9fC96C"
+  "id": "0x610FD1A9601CF7b1d188dBF3264738Aecc9fC96C",
+  "links": [
+    {
+      "name": "website",
+      "url": "https://micropets.io"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/MicroPets_io"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/MicroPets"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/MicroPetsbsc/PETS-token"
+    }
+  ],
+  "tags": [
+    "gaming",
+    "nft",
+    "staking"
+  ]
 }
